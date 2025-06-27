@@ -77,10 +77,15 @@ python cyber_password_checker.py
 ## 🧰 Technologies Used
 
 ~ **Python 3**
+
 ~ **customtkinter** – Modernized Tkinter GUI
+
 ~ **re** – Regex for strength evaluation
+
 ~ **pyperclip** – Clipboard copy support
+
 ~ **random & string** – Password generation
+
 ~ **Responsive Grid Layout** – for all screen sizes
 
 ## 📸 Project output
@@ -111,4 +116,5 @@ Make sure xclip is installed in Linux for clipboard support if needed:
 ~ sudo apt install xclip
 
 This project is intended for educational use only.
+
 Use responsibly and never to harm or deceive others.
