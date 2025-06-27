@@ -61,24 +61,27 @@ source venv/bin/activate
 ~ pip install customtkinter
 
 If you're on Kali Linux, use this instead (to avoid system package issues):
+
 ~ pip install --break-system-packages customtkinter
 
 ### 🚀 4. Run the Application
 
 On Kalilinux:
+
 python3 cyber_password_checker.py
 
 On Windows:
+
 python cyber_password_checker.py
 
 ## 🧰 Technologies Used
 
-~ Python 3
-~ customtkinter – Modernized Tkinter GUI
-~ re – Regex for strength evaluation
-~ pyperclip – Clipboard copy support
-~ random & string – Password generation
-~ Responsive Grid Layout – for all screen sizes
+~ **Python 3**
+~ **customtkinter** – Modernized Tkinter GUI
+~ **re** – Regex for strength evaluation
+~ **pyperclip** – Clipboard copy support
+~ **random & string** – Password generation
+~ **Responsive Grid Layout** – for all screen sizes
 
 ## 📸 Project output
 
